@@ -23,4 +23,5 @@ Let's try to make a table?
 
 ### Some important table header
 | Is this a table header? | And another? |
+| ---------------------- | ---------------------- |
 | Then some tabular data | Even more tabular data |
