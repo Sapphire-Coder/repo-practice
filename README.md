@@ -17,7 +17,7 @@ Can I ~~strikethrough~~ in the middle of a sentence:question:
 
 How I feel: :zzz: :zzz: :zzz:
 
-I forgot to fill up my water bottle with H<sub>2</sub>O so I am ==dehydrated==.
+I forgot to fill up my water bottle with H<sub>2</sub>O so I am <mark>dehydrated</mark>.
 
 Let's try to make a table?
 
